@@ -14,6 +14,7 @@
 - [AI / サロゲートモデル](#ai--サロゲートモデル)
 - [選び方の目安](#選び方の目安)
 - [注意点](#注意点)
+- [関連リスト](#関連リスト)
 - [コントリビュート](#コントリビュート)
 
 凡例: 🆓 オープンソース(GitHub / GitLab) · 💼 商用
@@ -95,6 +96,17 @@ CADのNURBS形状をそのまま使い、メッシュ化による幾何近似を
 - OSSの研究用コードの多くは、検証済み・規格対応の妥当性確認が弱く、実務の自動車CAEでは商用ツールが主流です。
 - メンテナンスが止まったOSSもあります。採用前に最終コミットを確認してください。
 - リンクは変わることがあります。リンク切れを見つけたら、PRでお知らせください。
+
+## 関連リスト
+
+CAE・シミュレーション全般のキュレーションリストです(メッシュレス手法に特化したものは見つかっていません)。
+
+- [qd-cae/awesome-CAE](https://github.com/qd-cae/awesome-CAE) - CAEのフレームワーク・ライブラリ・ソフトウェア全般。
+- [kimimgo/awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) - AI対応のCAEツール(CFD、FEA、SPH、DEM、ニューラルオペレータ、PINN、MCPサーバー)。
+- [anlijun/awesome-CAE-software](https://github.com/anlijun/awesome-CAE-software) - AIを含む、CAEワークフロー全体のソフトウェア。
+- [shvyac/awesome-cad-cae](https://github.com/shvyac/awesome-cad-cae) - CAD / CAE 関連(同じメンテナー)。
+- [tkoyama010/awesome-lattice-boltzmann-method](https://github.com/tkoyama010/awesome-lattice-boltzmann-method) - 格子ボルツマン法のリソース(説明文はまだありません)。
+- [tkoyama010/awesome-open-source-cae](https://github.com/tkoyama010/awesome-open-source-cae) - オープンソースCAE(2023年から更新なし)。
 
 ## コントリビュート
 
