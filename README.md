@@ -14,6 +14,7 @@
 - [AI / Surrogate Models](#ai--surrogate-models)
 - [How to Choose](#how-to-choose)
 - [Caveats](#caveats)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
 Legend: 🆓 Open source (GitHub / GitLab) · 💼 Commercial
@@ -95,6 +96,17 @@ Instant prediction after training. Training data usually comes from conventional
 - Many OSS research codes lack verified, standards-compliant validation; commercial tools are the norm in production automotive CAE.
 - Some OSS projects are no longer maintained. Check the last commit before adopting.
 - Links may change. Please open a PR if you find a broken one.
+
+## Related Lists
+
+Other curated lists on CAE and simulation (none focus on meshless methods specifically):
+
+- [qd-cae/awesome-CAE](https://github.com/qd-cae/awesome-CAE) - CAE frameworks, libraries and software in general.
+- [kimimgo/awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) - AI-ready CAE tools (CFD, FEA, SPH, DEM, neural operators, PINNs, MCP servers).
+- [anlijun/awesome-CAE-software](https://github.com/anlijun/awesome-CAE-software) - CAE software across the full workflow, including AI.
+- [shvyac/awesome-cad-cae](https://github.com/shvyac/awesome-cad-cae) - CAD / CAE topics (same maintainer).
+- [tkoyama010/awesome-lattice-boltzmann-method](https://github.com/tkoyama010/awesome-lattice-boltzmann-method) - Lattice Boltzmann method resources (no description yet).
+- [tkoyama010/awesome-open-source-cae](https://github.com/tkoyama010/awesome-open-source-cae) - Open source CAE (not updated since 2023).
 
 ## Contributing
 
