@@ -23,8 +23,8 @@ Best for free surface, splashing, sloshing, lubrication, large deformation.
 - 🆓 [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - GPU-accelerated SPH solver.
 - 🆓 [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPH fluid simulation library.
 - 🆓 [PySPH](https://github.com/pypr/pysph) - Python framework for SPH.
-- 💼 [Particleworks](https://www.prometech.co.jp/en/) - MPS-based particle solver (Prometech).
-- 💼 [Altair nanoFluidX](https://altair.com/nanofluidx) - GPU SPH for powertrain / e-motor lubrication.
+- 💼 [Particleworks](https://prometech.co.jp/en/) - MPS-based particle solver (Prometech).
+- 💼 [Altair nanoFluidX](https://help.altair.com/hwcfdsolvers/nfx/topics/nanofluidx/overview_nanofluidx_r.htm) - GPU SPH for powertrain / e-motor lubrication.
 - 💼 [LS-DYNA (SPH)](https://www.ansys.com/products/structures/ansys-ls-dyna) - SPH for fluid-structure interaction and high-speed impact.
 
 ## Lattice Boltzmann Method (LBM)
@@ -54,7 +54,7 @@ Best for fracture, crack propagation, soil / granular flow, extreme deformation.
 Best for fast early-stage design evaluation straight from CAD.
 
 - 💼 [Altair Inspire](https://altair.com/inspire) - Simulation-driven design from CAD geometry.
-- 💼 Ansys Discovery - Real-time simulation (see Ansys website).
+- 💼 [Ansys Discovery](https://www.ansys.com/products/3d-design/ansys-discovery) - Real-time simulation with interactive modeling.
 
 ## Isogeometric Analysis (IGA)
 
@@ -72,7 +72,7 @@ Instant prediction after training. Training data usually comes from conventional
 - 🆓 [NVIDIA PhysicsNeMo](https://github.com/NVIDIA/physicsnemo) - Physics-ML framework.
 - 🆓 [neuraloperator](https://github.com/neuraloperator/neuraloperator) - Fourier Neural Operators and related models.
 - 🆓 [DeepXDE](https://github.com/lululxvi/deepxde) - Physics-informed neural networks (PINNs).
-- 💼 [Ansys SimAI](https://www.ansys.com/products/simai) - Cloud AI surrogate.
+- 💼 [Ansys SimAI](https://www.ansys.com/products/ai/simai) - Cloud AI surrogate.
 - 💼 [Altair physicsAI](https://altair.com/physicsai) - AI surrogate inside HyperWorks.
 - 💼 [Neural Concept](https://www.neuralconcept.com) - Engineering deep learning platform.
 
