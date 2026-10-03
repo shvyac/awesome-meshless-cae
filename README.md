@@ -1,5 +1,7 @@
 # Awesome Meshless CAE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**English** | [日本語](README.ja.md)
+
 > A curated list of CAE tools that work **without a traditional mesh** (meshless / mesh-free / mesh-light): particle methods, lattice Boltzmann, MPM, peridynamics, isogeometric analysis, voxel / immersed boundary, and AI surrogates.
 
 ## Contents
@@ -96,7 +98,7 @@ Instant prediction after training. Training data usually comes from conventional
 
 ## Contributing
 
-Pull requests are welcome. Please add one tool per line with a short description and mark it 🆓 or 💼.
+Pull requests are welcome. Please add one tool per line with a short description and mark it 🆓 or 💼. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
